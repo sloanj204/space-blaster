@@ -1,5 +1,5 @@
 # space-blaster
-Simple asteroid clone in Java.
+Simple asteroid clone in Java Swing.
 ### Features
 * Movement with arrow keys.
 * Screen wrapping movement.
